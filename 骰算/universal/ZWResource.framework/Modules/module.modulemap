@@ -1,0 +1,6 @@
+framework module ZWResource {
+  umbrella header "ZWResource.h"
+
+  export *
+  module * { export * }
+}

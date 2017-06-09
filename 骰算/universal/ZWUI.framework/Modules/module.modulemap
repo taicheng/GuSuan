@@ -1,0 +1,6 @@
+framework module ZWUI {
+  umbrella header "ZWUI.h"
+
+  export *
+  module * { export * }
+}

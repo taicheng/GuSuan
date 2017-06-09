@@ -1,0 +1,6 @@
+framework module ZWAPI {
+  umbrella header "ZWAPI.h"
+
+  export *
+  module * { export * }
+}
